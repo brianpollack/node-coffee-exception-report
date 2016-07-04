@@ -1,4 +1,5 @@
-chalk     = require 'chalk'
+chalk = require 'chalk'
+fs    = require 'fs'
 
 ##| log - A simple pointer, by default, to console.log
 ##|
