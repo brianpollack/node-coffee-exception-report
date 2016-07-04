@@ -1,0 +1,27 @@
+{
+  "name": "coffee-exception-report",
+  "version": "1.0.0",
+  "description": "Report exceptions from CoffeeScript nicely",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/brianpollack/node-coffee-exception-report.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "CoffeeScript",
+    "Exceptions"
+  ],
+  "author": "Brian Pollack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianpollack/node-coffee-exception-report/issues"
+  },
+  "homepage": "https://github.com/brianpollack/node-coffee-exception-report#readme",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
